@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Hello World !</h1>
-    <h5> Our First Pipeline!</h5>
-    <h1> 22st May 2023 <\h1>
+    <h5> Our First Project!</h5>
+    <h1> 26th May 2023 <\h1>
 </body>
 </html>
